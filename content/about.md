@@ -1,11 +1,8 @@
 ---
-title: 关于我
-date: 2018-04-05T12:00:00+08:00
+title: About
+date: 2018-04-05T15:52:24+08:00
 url: /about/
+draft: false
 ---
 
-
-
-### About Me
-
-under develpment...
+under development...
