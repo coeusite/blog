@@ -12,3 +12,9 @@
 
 # Project-local glide cache, RE: https://github.com/Masterminds/glide/issues/736
 .glide/
+
+# Hugo
+public/
+*.un~
+*.DS_Store
+*.swp
