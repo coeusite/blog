@@ -1,4 +1,10 @@
 baseURL = "https://koios.review/"
 languageCode = "zh-cn"
+MetaDataFormat = "toml"
 title = "Koiosの壁橱"
 theme = "yilia"
+
+
+[[menu.subnav]]
+    Name = "Github"
+    URL= "https://github.com/coeusite"
