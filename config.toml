@@ -1,8 +1,8 @@
 baseURL = "https://koios.review/"
 languageCode = "zh-cn"
-MetaDataFormat = "toml"
+MetaDataFormat: "yaml"
 title = "Koiosの壁橱"
-theme = "yilia"
+theme = "hugo-theme-yilia"
 
 
 [[menu.subnav]]
