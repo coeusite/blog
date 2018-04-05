@@ -1,0 +1,13 @@
+baseurl: "https://koios.review/"
+languageCode: "zh-CN"
+MetaDataFormat: "yaml"
+title: "Koiosの壁橱"
+theme: "yilia"
+copyright: "Copyright (c) 2018 CoeusITE"
+
+menu:
+    subnav:
+        - Name: "Github"
+          URL: "https://github.com/coeusite"
+        - Name: "关于我"
+          URL: "/about/"
