@@ -1,6 +1,6 @@
 baseURL = "https://koios.review/"
 languageCode = "zh-cn"
-MetaDataFormat: "yaml"
+MetaDataFormat = "yaml"
 title = "Koiosの壁橱"
 theme = "hugo-theme-yilia"
 
