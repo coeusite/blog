@@ -7,7 +7,7 @@ hasCJKLanguage = true
 
 
 [params]
-    copyright = "© 2018 CoeusITE. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)"
+    copyright = "2018 CoeusITE. Licensed under CC BY 4.0"
     author = "CoeusITE"
     animate = true    
     fancybox= true
@@ -15,7 +15,7 @@ hasCJKLanguage = true
     open_in_new=true
     inner_archive=false
     tagcloud=true
-    avatar="avatar.jpeg"
+    avatar="/avatar.jpeg"
     
 
 [[menu.subnav]]
