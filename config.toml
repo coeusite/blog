@@ -1,0 +1,23 @@
+baseurl = "https://koios.review/"
+languageCode = "zh-CN"
+MetaDataFormat = "toml"
+title = "Koiosの壁橱"
+theme = "yilia"
+hasCJKLanguage = true
+
+
+[params]
+    copyright = "© 2018 CoeusITE. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0)"
+    author = "CoeusITE"
+    animate = true    
+    fancybox= true
+    mathjax=true
+    open_in_new=true
+    inner_archive=false
+    tagcloud=true
+    avatar="avatar.jpeg"
+    
+
+[[menu.subnav]]
+    Name = "Github"
+    URL = "https://github.com/coeusite"
